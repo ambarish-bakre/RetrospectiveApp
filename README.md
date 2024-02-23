@@ -1,6 +1,6 @@
 # Retrospective App Coding Exercise : Backend
 - Built in Spring Boot
-
+- Swagger documentation(WIP) available at: http://localhost:8080/swagger-ui/index.html#/
 ## Requirements
 
 For building and running the application you need:

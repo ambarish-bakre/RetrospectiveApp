@@ -18,7 +18,7 @@ import java.util.stream.Collectors;
 @Slf4j
 public class RetrospectiveService {
 
-    private List<Retrospective> retrospectives = new ArrayList<>();
+    public List<Retrospective> retrospectives = new ArrayList<>();
 
     public Retrospective create(Retrospective retrospective) {
         log.info("Creating retrospective: {}", retrospective.getName());
